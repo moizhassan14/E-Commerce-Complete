@@ -1,0 +1,30 @@
+.MuiButton-root{
+    background-color: #8bc34a !important;
+    color: white !important;
+    font-weight: bold !important;
+    font-size: 1px;
+}
+.cart-btn{
+    width: 100% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: absolute !important;
+    bottom: 10px !important;
+}
+.view-detail-btn{
+    background-color: white !important;
+    color: #8bc34a !important;
+    border: solid 1px #8bc34a !important;
+}
+.white_btn {
+    color: #8bc34a !important;
+	border: none !important;
+	outline: none !important;
+	background-color: white !important; 
+	border-radius: 20px !important;
+	width: 120px !important;
+	font-weight: bold !important;
+	font-size: 14px !important;
+	cursor: pointer !important;
+	margin-left: 20px !important;
+}
